@@ -67,4 +67,8 @@ nb-configuration.xml
 
 # Plugin directory
 /.quarkus/cli/plugins/
+<<<<<<< HEAD
 >>>>>>> ca7789d (Initial commit)
+=======
+
+>>>>>>> 5fdf204 (Initial commit)
